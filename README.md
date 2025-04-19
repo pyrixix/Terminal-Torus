@@ -22,7 +22,7 @@ Here’s a taste of the torus in motion:
 
 > **Note:** This GIF is just a glimpse—run the code for full hypnotic effect.
 
-*(terminal recording GIF or screenshot here once ready)*
+*(terminal recording GIF or screenshot here once ready for me to remember )*
 
 ---
 
@@ -51,7 +51,7 @@ Here’s a taste of the torus in motion:
 
 ## How It Works
 
-This script is based on the brilliant 3D torus projection technique by Andy Sloane. It simulates a rotating doughnut by:
+This script is based on the brilliant 3D torus projection technique by Shivangi Jha. It simulates a rotating doughnut by:
 - Calculating XYZ coordinates on a torus
 - Applying 3D-to-2D perspective projection
 - Using depth buffers for realistic occlusion
